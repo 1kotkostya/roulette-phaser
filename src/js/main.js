@@ -15,7 +15,7 @@ window.onload = function() {
         type: Phaser.AUTO,
         width: 450,
         height: 450,
-        backgroundColor: 0x880044,
+        backgroundColor: 0x880022,
         scene: {
             preload: preload,
             create: create,
